@@ -2,6 +2,7 @@
 
 int Sub(int x int y)
 {
+	// main
 	return x - y;
 }
 
