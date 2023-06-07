@@ -1,5 +1,10 @@
 #include <iostream>
 
+int Dev1()
+{
+	return 0;
+}
+
 int main()
 {
 	std::cout << "learn git!" << std::endl;
