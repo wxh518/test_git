@@ -1,5 +1,10 @@
 #include <iostream>
 
+int Main()
+{
+	return 0;
+}
+
 int Dev1()
 {
 	return 0;
