@@ -1,5 +1,10 @@
 #include <iostream>
 
+int Func(int arg)
+{
+	std::cout << "learn git! -> main pull" << std::endl;
+}
+
 int Main()
 {
 	return 0;
